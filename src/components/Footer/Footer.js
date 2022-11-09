@@ -8,11 +8,11 @@ const Footer = () => {
          <div className="container">
             <div className="row">
                <div className="col-lg-4 col-md-6">
-                  <div className="footer-box">
+                 <div className="footer-box">
                      <h3 className="logo"><span>e</span>hungry</h3>
-                     <p>20 Carrochan Rd, Balloch, Alexandria G83 8EG, UK 69QJ+2F Alexandria, United Kingdom</p>
-                     <p>PHONE - +91 123 456 789 0, +91 123 456 789 0</p>
-                     <p>EMAIL - support@ehungry.com</p>
+                     <p>Delhi Technological University, Rohini, New Delhi</p>
+                     <p>PHONE - 9810879604,8800477533</p>
+                     <p>EMAIL - krohilla2001@gmail.com,jasvinderkaur927@gmail.com</p>
                   </div>
                </div>
                <div className="col-lg-4 col-md-6">
